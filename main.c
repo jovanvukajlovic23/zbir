@@ -1,7 +1,7 @@
 #include <stdio.h>
 
 int main() {
-    int a, b, rezultat;
+    int a, b, zbir;
     printf("Unesite prvi broj: ");
     scanf("%d", &a);
     printf("Unesite drugi broj: ");
